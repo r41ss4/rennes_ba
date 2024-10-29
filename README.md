@@ -9,6 +9,4 @@ This is a project for the subject Business Analytics at Rennes School of Busines
 ## The Dataset
 
 ## Folders and organization 
-Hola Sammy, como estas? 
-
 
