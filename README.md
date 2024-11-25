@@ -14,4 +14,50 @@ The datasets have been obtained through **[Kaggle](https://www.kaggle.com/)** pl
 *   **data_n3:** It includes a wide range of features and variables, such as movies title, cast of the movie,desc of movies, duration, rating on IMDB from a different source.    
 
 ## Folders and organization 
+```
+rennes_ba/          
+│           
+├── data/         
+│   ├── raw/                   
+│   │   ├── data_n1.csv   
+│   │   ├── data_n2.csv  
+│   │   ├── data_n3.csv              
+│   │   └── data_n2.csv     
+│   ├── cleaned/        
+│   │   ├── clean_datan1.csv   
+│   │   ├── clean_datan2.csv        
+│   │   ├── clean_datan3.csv        
+│   │   └── clean_datan4.csv            
+│   └── merged/         
+│       └── merged_data.csv           
+│                       
+├── notebooks/                    
+│   ├── descriptive.ipynb         
+│   ├── cleaning.ipynb          
+│   ├── diagnostic.ipynb 
+│   ├── merging.ipynb          
+│   ├── predictive.ipynb      
+│   └── prescriptive.ipynb                
+│       
+├── .ipynb_checkpoints/     
+├── .jupyter/           
+├── .virtual_documents/         
+├── .DS_Store               
+└── README.md          
+```
+
+## Methodology
+**1. Data Cleaning:** We will preprocess the datasets to handle missing values, outliers, and inconsistencies.          
+**2. Exploratory Data Analysis (EDA):** Conduct visualizations and statistical analyses to understand relationships between ticket prices and other variables.      
+**3. Descriptive Analytics:** Generate summary statistics to provide insights into the datasets.     
+**4. Diagnosic Analysis:** Investigate root causes of observed patterns and anomalies in the data.      
+**4. Predictive Analytics:** Build predictive models to estimate ticket prices based on the identified factors.     
+**5. Prescriptive Analytics:** Develop optimization models to recommend pricing strategies that maximize revenue or market share.   
+
+## Tools and Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Visual Studio Code 
+- GitHub repository
+
 
