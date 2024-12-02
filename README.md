@@ -9,9 +9,10 @@ This is a project for the subject Business Analytics at Rennes School of Busines
 *   **[Xian Harding Anglés](https://github.com/r41ss4)**
 ## The Dataset
 The datasets have been obtained through **[Kaggle](https://www.kaggle.com/)** platform and selected to provide relevants insights regarding flights pricing. 
-*   **data_n1:** It includes a wide range of features and variables, such as movies title, cast of the movie,desc of movies, duration, rating on IMDB, voted by people, year, genre, certificate. 
-*   **data_n2:** It contains information about 1,000 shows available in Netflix over the last years, the gathering method took advantage of the Netflix’s suggestion engine.
-*   **data_n3:** It includes a wide range of features and variables, such as movies title, cast of the movie,desc of movies, duration, rating on IMDB from a different source.    
+*   **data_n1:** It includes a wide range of movies available on Netflix and their features, such as movies title, cast of the movie, desc of movies, duration, rating on IMDB, voted by people, year, genre, certificate. It was extracted from **[Netflix popular movies dataset](https://www.kaggle.com/datasets/narayan63/netflix-popular-movies-dataset)**     
+*   **data_n2:** It contains information about 1,000 shows available in Netflix over the last years, the gathering method took advantage of the Netflix’s suggestion engine. It was extracted from **(1000 Netflix Shows)[https://www.kaggle.com/datasets/chasewillden/netflix-shows]** 
+*   **data_n3:** It includes a wide range of features and variables, such as movies title, cast of the movie,desc of movies, duration, rating on IMDB from a different source. It was extracted from **[Netflix Dataset for Analysis](https://www.kaggle.com/datasets/yaminh/netflix-dataset-for-analysis)**    
+*   **data_n4:** It includes a wide range of features and variables titles available in netflix. It was extracted from **[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/dgoenrique/netflix-movies-and-tv-shows?select=credits.csv)**
 
 ## Folders and organization 
 ```
@@ -52,11 +53,15 @@ rennes_ba/
 **3. Descriptive Analytics:** Generate summary statistics to provide insights into the datasets.     
 **4. Diagnosic Analysis:** Investigate root causes of observed patterns and anomalies in the data.      
 **4. Predictive Analytics:** Build predictive models to estimate ticket prices based on the identified factors.     
-**5. Prescriptive Analytics:** Develop optimization models to recommend pricing strategies that maximize revenue or market share.   
+**5. Prescriptive Analytics:** Develop optimization models to recommend pricing strategies that maximize revenue or market share.  
+
+## Conclusions
+Feel free to review our findings in the file **[Insights.md](https://github.com/r41ss4/rennes_ba/blob/main/Insights.md)**. For more information, there is a full report available by request to team members of the project. 
 
 ## Tools and Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python 
 - Jupyter Notebook
+- Kaggle
 - Visual Studio Code 
 - GitHub repository
 
