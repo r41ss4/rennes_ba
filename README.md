@@ -1,5 +1,5 @@
 # About the Project 
-This is a project for the subject Business Analytics at Rennes School of Business. It aims to analyze rating factors and other values related to the platform content. By doing so, we hope to determine which movies and series should remain available on the Netflix platform. We will use three datasets (data_n1, data_n2, and data_n3) related to Netflix content to perform data cleaning, descriptive analysis, and other methods.
+This is a project for the subject Business Analytics at Rennes School of Business. It aims to analyze rating factors and other values related to the platform content. By doing so, we hope to determine which movies and series should remain available on the Netflix platform. We will use three datasets (data_n1, data_n2, data_n3 and data_n4) related to Netflix content to perform data cleaning, descriptive analysis, and other methods.
 
 ## Team member
 *   **[Kuan-Yu HOU](https://github.com/DoreenHou)** 
